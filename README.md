@@ -1,4 +1,4 @@
-# HireLens: A precise ATS (Application Tracking System) that analyzes and ranks resumes efficiently
+# ApplicantCentral (System for Tracking Applications) 
 
 ## Overview
 
@@ -27,8 +27,8 @@ The Application Tracking System (ATS) is designed to automate the resume screeni
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/ATS.git
-   cd ATS
+   git clone https://github.com/ApplicantCentral-Application-Tracking-System-main.git
+   cd ApplicantCentral-Application-Tracking-System-main
    ```
 2. Install dependencies:
    ```sh
@@ -45,14 +45,6 @@ The Application Tracking System (ATS) is designed to automate the resume screeni
 3. Choose `Employer Mode` to input job descriptions or `Candidate Mode` to evaluate resumes.
 4. Follow the on-screen prompts to analyze resume relevance scores.
 
-## Screenshots
-
-### Employer Mode
-![Image](https://github.com/user-attachments/assets/113ef61f-7cee-4ca4-b9d4-5f721d4ff916) <br/>
-
-### Candidate Mode
-![Image](https://github.com/user-attachments/assets/c56d2a0a-ea21-4b77-9a75-605753f46f1c) <br/>
-
 ## Contribution
 
 Contributions are welcome. To contribute:
@@ -62,8 +54,6 @@ Contributions are welcome. To contribute:
 - Commit your changes.
 - Submit a pull request.
 
-## Acknowledgment
 
-I would like to express my sincere gratitude to [Shruti Sahrawat](https://github.com/shrutisahrawat) for their valuable support and guidance throughout this project. Their insights and encouragement played a crucial role in shaping and refining this system.
 
 
